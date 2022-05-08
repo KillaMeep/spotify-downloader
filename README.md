@@ -10,6 +10,12 @@ Also, some packages on pip are needed. Run this to get them:
 ```bat
 pip install -r requirements.txt
 ```
+Finally, create a file called ```.env``` and format it like this:
+```
+CLIENT_ID=id
+CLIENT_SECRET=secret
+```
+To fill these in, go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and create an application. In this you can find the info you need to fill out the data above.
 ## Usage
 
 ```python
