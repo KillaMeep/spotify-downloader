@@ -19,6 +19,8 @@ To fill these in, go to the [Spotify Developer Dashboard](https://developer.spot
 ## Usage
 
 Simply run the spotify.py file and it will prompt you for a playlist url ![Url example](/examples/share.png)
+
+
 Paste this in and hit enter. It will then do everything else for you. Just wait for the window to close and check the downloads folder!
 
 
