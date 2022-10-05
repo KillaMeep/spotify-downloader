@@ -18,10 +18,9 @@ CLIENT_SECRET=secret
 To fill these in, go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and create an application. In this you can find the info you need to fill out the data above.
 ## Usage
 
-```
 Simply run the spotify.py file and it will prompt you for a playlist url (ex:https://open.spotify.com/playlist/37i9dQZF1EIcACGtnmfS1M?si=1b2d4bd3c893497a)
-Paste this in and hit enter. It will then do everything else. Just wait for it to close and check the downloads folder!
-```
+Paste this in and hit enter. It will then do everything else for you. Just wait for the window to close and check the downloads folder!
+
 
 
 
