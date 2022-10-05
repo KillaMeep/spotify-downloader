@@ -10,7 +10,7 @@ Also, some packages on pip are needed. Run this to get them:
 ```bat
 pip install -r requirements.txt
 ```
-Finally, fill in the forms on lines 11 & 12 with the respective data.
+Finally, fill in the variables on lines 11 & 12 with the respective data.
 ```
 CLIENT_ID=id
 CLIENT_SECRET=secret
