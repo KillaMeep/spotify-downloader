@@ -1,6 +1,6 @@
 # Spotify-DL
 
-A simple spotify to youtube converter built for windows.
+A simple script to download spotify songs as mp3s!
 
 ## Installation
 
