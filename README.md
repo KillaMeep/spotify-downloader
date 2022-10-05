@@ -22,7 +22,6 @@ Simply run the spotify.py file and it will prompt you for a playlist url
 To find the url, follow this image:
 ![Url example](/examples/share.png)
 
-
 This will copy the playlist URL to your clipboard. Paste this into the program when asked, and it will then do everything else for you. Just wait for the window to close and check the downloads folder!
 
 
