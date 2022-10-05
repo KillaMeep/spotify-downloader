@@ -4,7 +4,7 @@ A simple spotify to youtube converter built for windows.
 
 ## Installation
 
-You need to install the [YT-DLP EXE](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)  program for windows as well as [ffmpeg](https://ffmpeg.org/download.html), and add them to path for everything to run properly.
+You need to install the [YT-DLP EXE](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe) for windows as well as [ffmpeg](https://ffmpeg.org/download.html), and add them to path for everything to run properly.
 
 Also, some packages on pip are needed. Run this to get them:
 ```bat
