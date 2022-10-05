@@ -1,5 +1,4 @@
-numpy
-python-dotenv
-spotipy
-termcolor
-youtube_dl
+requests==2.26.0
+spotipy==2.20.0
+termcolor==1.1.0
+youtube_dl==2021.12.17
